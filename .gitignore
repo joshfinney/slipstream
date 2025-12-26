@@ -1,0 +1,27 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+# Environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Training artifacts
+logs/
+runs/
+
+# OS
+.DS_Store
+
+# uv
+.python-version
+
+# Local notes (not for remote)
+INTERVIEW_NOTES.md
